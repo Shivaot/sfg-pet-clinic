@@ -1,6 +1,6 @@
 # Clone of Spring Pet Clinic done in a modern way
 
-# Spring PetClinic Sample Application [![Build Status]
+# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)]
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
